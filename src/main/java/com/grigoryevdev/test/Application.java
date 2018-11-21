@@ -1,6 +1,6 @@
-package com.ef;
+package com.grigoryevdev.test;
 
-import com.ef.service.ParserService;
+import com.grigoryevdev.test.service.ParserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package com.ef;
+package com.grigoryevdev.test.service;
 
 import org.springframework.stereotype.Service;
 
